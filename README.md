@@ -10,3 +10,19 @@
 [+] criar um servidor com NodeJS - express-generator
 [+] renderizar a página para rota raiz
 [+] hello world, com nodejs
+
+** Development Setup
+
+** Client 
+```sh
+cd client
+npm install
+npm run serve
+```
+
+** Server
+```sh
+cd server
+npm install
+npm run dev
+```
